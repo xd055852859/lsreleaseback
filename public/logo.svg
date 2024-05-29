@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="144px" viewBox="0 0 192 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-第二</title>
+    <g id="万安管理后台0709" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-12" transform="translate(0.000000, -21.000000)">
+            <g id="logo" transform="translate(9.000000, 45.000000)">
+                <polygon id="Fill-1" fill="#0D73B2" points="66.048 5.08721396e-05 4.54747351e-13 65.6256224 42.3424 65.6256224 87.2192 21.0356815"></polygon>
+                <polygon id="Fill-2" fill="#17A6A4" points="129.560986 21.0356306 108.389786 0 87.2190976 21.0356306 108.389786 42.0712612"></polygon>
+                <polygon id="Fill-3" fill="#028CBF" points="84.6839808 65.6252663 108.390093 42.070956 87.2188928 21.0358341 42.3420928 65.6252663"></polygon>
+                <polygon id="Fill-4" fill="#8BD17B" points="108.38999 42.0709051 132.09559 65.6252155 174.43799 65.6252155 129.56119 21.0352745"></polygon>
+                <polygon id="Fill-5" fill="#68C46E" points="84.6839808 65.6252663 132.096205 65.6252663 108.390093 42.070956"></polygon>
+                <g id="编组" transform="translate(0.000000, 65.625266)">
+                    <path d="M0,0 L46.9046915,25.5657046 C58.8381369,32.070106 73.2578631,32.070106 85.1913085,25.5657046 L87.2192,24.4603893 L87.2192,24.4603893 L42.341888,0 L0,0 Z" id="Fill-6" fill="#B3BBBD"></path>
+                    <path d="M87.2189952,24.4605009 L89.2466552,25.56569 C101.180227,32.0701605 115.600123,32.0700872 127.533629,25.5654955 L129.560883,24.4605009 L129.560883,24.4605009 L108.390195,12.9210018 L87.2189952,24.4605009 Z" id="Fill-8" fill="#E4E4E4"></path>
+                    <polygon id="Fill-10" fill="#C0C5C7" points="84.6839808 0 42.3420928 0 87.2188928 24.4603893 108.390093 12.9211692"></polygon>
+                    <polygon id="Fill-12" fill="#D6D6D6" points="132.096 0 108.389888 12.9211692 129.561088 24.4603893 174.437888 0"></polygon>
+                    <polygon id="Fill-14" fill="#C7CBCC" points="132.096 0 84.683776 0 108.389888 12.9211692"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
